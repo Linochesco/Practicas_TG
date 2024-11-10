@@ -1,0 +1,45 @@
+# exported by https://3dviewer.net
+newmtl Patrick_Costume_01_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl Patrick_Costume_03_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl Patrick_Expressions_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl Patrick_Conebody
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+newmtl coatrack
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+map_Kd Patrick_Coatrack_BaseColor.png
+newmtl Patrick_Props_Mat
+Kd 1 1 1
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
+map_Kd Patrick_Props_BaseColor.png
+newmtl Patrick_HomeandTable_Mat
+Kd 0.8 0.8 0.8
+d 1
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ns 200
